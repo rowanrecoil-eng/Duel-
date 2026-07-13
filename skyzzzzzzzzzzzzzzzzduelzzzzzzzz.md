@@ -754,7 +754,7 @@ local function Main()
 
     local subTitleLbl = Instance.new("TextLabel", titleBar)
     subTitleLbl.Size = UDim2.new(0,160,0,11); subTitleLbl.Position = UDim2.new(0,50,0,24)
-    subTitleLbl.BackgroundTransparency = 1; subTitleLbl.Text = "powered by gits"
+    subTitleLbl.BackgroundTransparency = 1; subTitleLbl.Text = "FREMIUM"
     subTitleLbl.TextColor3 = C.topSub; subTitleLbl.Font = Enum.Font.GothamMedium; subTitleLbl.TextSize = 10
     subTitleLbl.TextXAlignment = Enum.TextXAlignment.Left; subTitleLbl.ZIndex = 6
 
